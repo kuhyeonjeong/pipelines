@@ -9,6 +9,7 @@ pipeline {
           echo 'hello'
         }
 
+        unstable 'hello'
       }
     }
 
